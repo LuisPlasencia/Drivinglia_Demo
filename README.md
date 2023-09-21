@@ -8,7 +8,7 @@ Drivinglia is an Android based mobile application that will help teachers and st
 - MetaWeather API.
 - Testing with Espresso.
 - Libraries: Volley, Gson, Android Image Cropper, Google Play Services.
-
+<br />
 
 Drivinglia presentation: 
 https://drive.google.com/file/d/1XlHgeJD7HkTOr2Jg4H3ntH4Nynk51WqI/view?usp=drive_link
@@ -19,5 +19,5 @@ https://drive.google.com/file/d/1J7-GG9fGaDefUSQJHdZUomtmt_eNNpy1/view?usp=drive
 Drivinglia video demonstration:
 https://youtu.be/Z6CdU26OOzs
 
-
+<br />
 September 2021
