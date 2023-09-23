@@ -20,4 +20,7 @@ Drivinglia video demonstration:
 https://drive.google.com/file/d/1iMs_QImXqS22YQ0UcNvsm-HxPsOeMx9t/view?usp=drive_link 
 
 <br />
+
+Score: 9,4 out of 10 (ECTS A)
+<br />
 September 2021
